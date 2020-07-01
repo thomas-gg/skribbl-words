@@ -32,3 +32,35 @@ book
 workshop
 Checkin code
 welcome
+retreat
+Geisel
+Price Center
+Pines
+Canyon Vista
+The Village
+Qualcomm Conference Room
+CSE 11
+CSE 12
+CSE 15L
+CSE 20
+CSE 21
+CSE 30
+CSE 100
+Kendall
+Casey
+dictator
+determinstic
+board
+functional
+jsfuck
+hiena
+smash
+league time
+Foodworx
+Sixth
+Warren
+Revelle
+Marshall
+ERC
+Muir
+Seventh

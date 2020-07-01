@@ -53,7 +53,7 @@ determinstic
 board
 functional
 jsfuck
-hiena
+hyena
 smash
 league time
 Foodworx

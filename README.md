@@ -6,3 +6,6 @@ The word list is in the file `words.txt`. Each word is on one line. The script
 `turn_to_list.sh` will turn the wordlist into a list that Skribbl.io can take.
 Simply copy it to the clipboard. It also generates a comma-listed text file
 you can copy as well, named "list.txt".
+
+You must run `turn_to_list.sh` before committing, as to maintain a comma-separated
+list for easy copying.
